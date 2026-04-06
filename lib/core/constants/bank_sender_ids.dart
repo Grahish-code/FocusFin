@@ -64,11 +64,6 @@ const Map<String, List<String>> kBankSenderIds = {
     'BOIIND', 'BOIINT', 'BOIREM', 'BOISAF', 'BOISME',
     'BOIVKG', 'BOILON', 'BOIJGB', 'BOIBAL', 'BOINJG',
   ],
-  'Test Bank (Chanda)': [
-    '9766276329',
-    '+919766276329',
-    'Mummy Ji',
-  ],
 };
 
 /// Flattened reverse map: senderID → bankName
